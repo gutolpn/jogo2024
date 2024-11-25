@@ -1,2 +1,4 @@
 # jogo2024
-trabalho final de LP
+Trabalho final da disciplina de Linguagem de Programação
+
+
